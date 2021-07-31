@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 master -> master 1
+=======
+master
+
+Hotfix-descricao
+>>>>>>> 49489c2... hotfix-descricao
